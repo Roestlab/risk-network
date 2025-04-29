@@ -1,3 +1,5 @@
+> **Note:** This is a mirror of the official [`riskportal/network`](https://github.com/riskportal/network) repository. Please see the upstream for contributions, issues, and the latest updates.
+
 # RISK Network
 
 <p align="center">
